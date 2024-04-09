@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/1. History .htm'],s:['000','refer'],p:[['000',1],['family',9],['orci',8],['vek',13]]});
