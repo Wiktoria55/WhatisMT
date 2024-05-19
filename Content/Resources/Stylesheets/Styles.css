@@ -933,3 +933,12 @@ li.lipustekropki
 	margin-bottom: 16px;
 }
 
+img.screentutorial1big
+{
+	border: none;
+	max-width: 100%;
+	heigh: inherit;
+	width: 850px;
+	height: 300px;
+}
+
