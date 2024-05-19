@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/1. History .htm'],s:['000','small'],p:[['000',1],['forms',6],['procedures',19]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/9.11 Tutorial6.htm'],s:['+add','subject'],p:[['+add',17],['f1',39],['people',6],['vek',35]]});

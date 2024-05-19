@@ -430,6 +430,13 @@ a.glossaryTerm
 	opacity: 0;
 }
 
+.xref
+{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #076685;
+}
+
 div.MCBreadcrumbsBox_0
 {
 	border-bottom-width: 0;

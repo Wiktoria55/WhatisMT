@@ -95,6 +95,8 @@ img
 {
 	border: none;
 	max-width: 100%;
+	height: 219px;
+	width: 270px;
 }
 
 p
@@ -203,8 +205,9 @@ p.TOC3
 h1
 {
 	font-weight: bold;
-	font-size: 24.0pt;
-	color: #076685;
+	color: #5c1b29;
+	font-size: 25.0pt;
+	font-family: 'Bookman Old Style';
 }
 
 h2
@@ -789,5 +792,144 @@ p.footer-sub
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
 	}
+}
+
+img.image
+{
+	border: none;
+	max-width: 100%;
+	font-weight: bold;
+	width: 18px;
+	height: 18px;
+}
+
+img.imageand
+{
+	border: none;
+	max-width: 100%;
+	font-weight: bold;
+	width: 18px;
+	height: 15px;
+}
+
+img.screentutorial1
+{
+	border: none;
+	max-width: 100%;
+	heigh: inherit;
+	height: 150px;
+	width: 850px;
+}
+
+img.imgdecor
+{
+	border: none;
+	max-width: 100%;
+	width: 294px;
+	height: 292px;
+}
+
+img.tutorial
+{
+	border: none;
+	max-width: 100%;
+	height: 219px;
+	width: 500px;
+}
+
+img.tutorial2
+{
+	border: none;
+	max-width: 100%;
+	height: 219px;
+	width: 200px;
+}
+
+img.cameraandroid
+{
+	border: none;
+	max-width: 100%;
+	height: 18 px;
+	width: 18 px;
+}
+
+li.imageandroid
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	font-family: 'Bookman Old Style';
+	font-size: 12pt;
+	indent: 15px;
+}
+
+img.cameraandroid2
+{
+	border: none;
+	max-width: 100%;
+	height: 18 px;
+	width: 18 px;
+}
+
+img.camand1
+{
+	border: none;
+	max-width: 100%;
+	height: 18px;
+	width: 16, 75px;
+}
+
+img.camand2
+{
+	border: none;
+	max-width: 100%;
+	height: 18px;
+	width: 18px;
+}
+
+img.andcam3
+{
+	border: none;
+	max-width: 100%;
+	height: 17px;
+	width: 16, 86px;
+}
+
+p.screen1
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+	font-family: Cambria;
+	font-size: 13;
+	text-align: center;
+}
+
+img.screen1
+{
+	border: none;
+	max-width: 100%;
+	heigh: inherit;
+	height: 200px;
+	width: 500px;
+}
+
+img.screentutorial12
+{
+	border: none;
+	max-width: 100%;
+	heigh: inherit;
+	width: 700px;
+	height: 200px;
+}
+
+li.lipustekropki
+{
+	margin-top: 8px;
+	font-family: 'Bookman Old Style';
+	font-size: 12pt;
+	margin-bottom: 16px;
 }
 
