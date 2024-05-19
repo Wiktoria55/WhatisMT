@@ -947,8 +947,8 @@ img.docutranslation1computer
 	border: none;
 	max-width: 100%;
 	heigh: inherit;
-	width: 850px;
-	height: 385px;
+	height: auto;
+	width: auto;
 }
 
 img.docutranslation2
