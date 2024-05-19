@@ -435,6 +435,7 @@ a.glossaryTerm
 	font-weight: bold;
 	text-decoration: underline;
 	color: #076685;
+	font-size: 12pt;
 }
 
 div.MCBreadcrumbsBox_0
@@ -792,8 +793,8 @@ MadCap|xref.TOCPageNumber_0
 	font-weight: inherit;
 	text-decoration: inherit;
 	color: inherit;
-	font-family: inherit;
 	font-size: inherit;
+	font-family: inherit;
 }
 
 .MCWebHelpFramesetLink a

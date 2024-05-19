@@ -503,6 +503,7 @@ MadCap|xref
 	mc-format: '{para}';
 	text-decoration: underline;
 	color: #076685;
+	font-size: 12pt;
 }
 
 /* Lists */
@@ -859,7 +860,7 @@ li.imageandroid
 	margin-top: 8px;
 	font-family: 'Bookman Old Style';
 	font-size: 12pt;
-	indent: 15px;
+	indent: 30px;
 }
 
 img.cameraandroid2
