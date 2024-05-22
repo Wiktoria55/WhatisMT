@@ -6,7 +6,8 @@ body
 {
 	color: #45494C;
 	font-family: 'Bookman Old Style';
-	font-size: 12pt;
+	line-height: 15pt;
+	font-size: 14pt;
 }
 
 .body-container
@@ -102,14 +103,14 @@ img
 
 p
 {
-	font-size: 12.0pt;
 	letter-spacing: 0.25px;
 	widows: 3;
 	orphans: 3;
 	margin-bottom: 15px;
 	margin-top: 15px;
 	line-he: inherit;
-	line-height: 16pt;
+	font-size: 14pt;
+	line-height: 17pt;
 }
 
 p.table-text
