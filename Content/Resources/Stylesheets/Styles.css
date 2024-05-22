@@ -5,7 +5,8 @@
 body
 {
 	color: #45494C;
-	font-family: Arial, Avenir, Myriad;
+	font-family: 'Bookman Old Style';
+	font-size: 12pt;
 }
 
 .body-container
@@ -108,7 +109,7 @@ p
 	margin-bottom: 15px;
 	margin-top: 15px;
 	line-he: inherit;
-	line-height: 15pt;
+	line-height: 16pt;
 }
 
 p.table-text
@@ -971,5 +972,11 @@ img.docutranslation2
 MadCap|xref.RelLinkPageNumber
 {
 	mc-format: '{quote}{para}{quote} {pageref}';
+}
+
+td.main-section
+{
+	background: #40374c;
+	image: inherit;
 }
 

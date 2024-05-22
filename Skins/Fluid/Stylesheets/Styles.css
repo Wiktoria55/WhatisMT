@@ -339,8 +339,8 @@ nav.title-bar .menu-icon
 	width: 566px;
 	height: 107px;
 	align-self: center;
-	background: transparent url('Images/Component 66.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Component 66.png') no-repeat center center;
+	background: transparent url('Images/Component 65656.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Component 65656.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -1081,6 +1081,7 @@ div.central-dropdown-content > a:hover
 .micro-content-proxy.faq .micro-content-phrase span
 {
 	color: #45494C;
+	font-family: 'Bookman Old Style';
 	font-size: 1.3em;
 	font-weight: bold;
 	text-decoration: none;
