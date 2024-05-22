@@ -981,3 +981,11 @@ td.main-section
 	image: inherit;
 }
 
+li.documentlist
+{
+	font-family: 'Bookman Old Style';
+	font-size: 14pt;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
