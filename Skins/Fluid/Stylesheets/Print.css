@@ -23,7 +23,7 @@
 	{
 		display: none;
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #212426;
 	}
 
 	/* Side Navigation Menu styles */
@@ -31,7 +31,7 @@
 	.sidenav-wrapper
 	{
 		display: none;
-		background-color: #45494C;
+		background-color: #404447;
 	}
 
 	.sidenav-wrapper ul.menu
@@ -410,8 +410,8 @@
 
 	.title-bar-layout a.logo
 	{
-		background: transparent url('Images/Logo.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
+		background: transparent url('Images/Component 66.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Component 66.png') no-repeat center center;
 	}
 
 	.main-section > .outer-row
@@ -883,13 +883,13 @@
 
 	.search-bar .search-field
 	{
-		background-color: #ffffff;
+		background-color: FFFFFF;
 	}
 
 	.search-bar .search-filter
 	{
 		background-repeat: no-repeat;
-		background-color: #FFFFFF;
+		background-color: FFFFFF;
 	}
 
 	.search-bar .search-filter-wrapper.open
@@ -905,7 +905,7 @@
 	.search-bar .search-filter:hover
 	{
 		background-repeat: no-repeat;
-		background-color: #FFFFFF;
+		background-color: FFFFFF;
 	}
 
 	.search-bar .search-filter.selected
@@ -1125,7 +1125,7 @@
 
 	.sidenav-container ul ul
 	{
-		background-color: #45494C;
+		background-color: #404447;
 	}
 
 	.sidenav-container

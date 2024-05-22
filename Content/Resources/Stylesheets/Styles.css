@@ -105,9 +105,10 @@ p
 	letter-spacing: 0.25px;
 	widows: 3;
 	orphans: 3;
-	line-height: 15pt;
 	margin-bottom: 15px;
 	margin-top: 15px;
+	line-he: inherit;
+	line-height: 15pt;
 }
 
 p.table-text
@@ -500,10 +501,10 @@ MadCap|expandingHead
 MadCap|xref
 {
 	font-weight: bold;
-	mc-format: '{para}';
 	text-decoration: underline;
 	color: #076685;
 	font-size: 12pt;
+	mc-format: '{quote}{para}{quote} {pageref}';
 }
 
 /* Lists */
@@ -610,6 +611,12 @@ p.footer-sub
 	color: #FFFFFF;
 	font-size: 14pt;
 	margin-top: 14px;
+}
+
+li
+{
+	spacing: 10;
+	line-height: 15pt;
 }
 
 @media only screen and (max-width: 1279px)
@@ -959,5 +966,10 @@ img.docutranslation2
 	heigh: inherit;
 	width: 850px;
 	height: 236px;
+}
+
+MadCap|xref.RelLinkPageNumber
+{
+	mc-format: '{quote}{para}{quote} {pageref}';
 }
 
