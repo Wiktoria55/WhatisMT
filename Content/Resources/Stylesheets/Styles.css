@@ -110,7 +110,7 @@ p
 	margin-top: 15px;
 	line-he: inherit;
 	font-size: 14pt;
-	line-height: 17pt;
+	line-height: 22pt;
 }
 
 p.table-text
@@ -618,7 +618,7 @@ p.footer-sub
 li
 {
 	spacing: 10;
-	line-height: 15pt;
+	line-height: 22pt;
 }
 
 @media only screen and (max-width: 1279px)
@@ -868,8 +868,8 @@ li.imageandroid
 	margin-bottom: 8px;
 	margin-top: 8px;
 	font-family: 'Bookman Old Style';
-	font-size: 12pt;
 	indent: 30px;
+	font-size: 14pt;
 }
 
 img.cameraandroid2
@@ -939,8 +939,8 @@ li.lipustekropki
 {
 	margin-top: 8px;
 	font-family: 'Bookman Old Style';
-	font-size: 12pt;
 	margin-bottom: 16px;
+	font-size: 14pt;
 }
 
 img.screentutorial1big
