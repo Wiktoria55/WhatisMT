@@ -793,6 +793,98 @@ span
 		height: 500px;
 		width: 1500px;
 	}
+
+	img.docutranslation23
+	{
+		height: 100%;
+		width: 100%;
+	}
+
+	td.main-section
+	{
+		text-align: inherit;
+		text-decoration: inherit;
+		text-indent: 0px;
+		text-transform: inherit;
+		font: inherit;
+		spacing: inherit;
+		font-family: inherit;
+		font-size: 10px;
+	}
+
+	MadCap|tocProxy
+	{
+		font-size: 12pt;
+	}
+
+	tr
+	{
+		font: inherit;
+		font-family: 'Bookman Old Style';
+		font-size: 12pt;
+	}
+
+	MadCap|breadcrumbsProxy
+	{
+		font: inherit;
+		font-size: 12pt;
+	}
+
+	MadCap|dropDownHotspot
+	{
+		font-size: 12px;
+	}
+
+	MadCap|xref
+	{
+		font-weight: normal;
+		color: #000000;
+		font-family: 'Bookman Old Style';
+		font-size: 16px;
+	}
+
+	a
+	{
+		font: inherit;
+		font-family: 'Bookman Old Style';
+		font-size: 14px;
+	}
+
+	MadCap|xref.ConceptPageNumber
+	{
+		font-size: 14px;
+		font-family: 'Bookman Old Style';
+	}
+
+	MadCap|xref.ListOfPageNumber
+	{
+		font-size: 14px;
+		font-family: 'Bookman Old Style';
+	}
+
+	MadCap|xref.TOCPageNumber
+	{
+		font-size: 14px;
+		font-family: 'Bookman Old Style';
+	}
+
+	MadCap|xref.IndexPageNumber
+	{
+		font-size: 14pt;
+		font-family: 'Bookman Old Style';
+	}
+
+	MadCap|xref.RelLinkPageNumber
+	{
+		font-size: 14pt;
+		font-family: 'Bookman Old Style';
+	}
+
+	MadCap|xref.afdfssdg
+	{
+		font-family: 'Bookman Old Style';
+		font-size: 16px;
+	}
 }
 
 @media print
@@ -1080,5 +1172,19 @@ img.c
 	max-width: 100%;
 	height: 219px;
 	width: 270px;
+}
+
+img.docutranslation23
+{
+	border: none;
+	max-width: 100%;
+	heigh: inherit;
+	width: 850px;
+	height: 236px;
+}
+
+MadCap|xref.afdfssdg
+{
+	
 }
 
