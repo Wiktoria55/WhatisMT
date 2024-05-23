@@ -840,7 +840,7 @@ span
 		font-weight: normal;
 		color: #000000;
 		font-family: 'Bookman Old Style';
-		font-size: 16px;
+		font-size: 14px;
 	}
 
 	a
@@ -904,6 +904,19 @@ span
 	p.ppustekropki
 	{
 		margin: 1.12em 0 1.12em 35px;
+	}
+
+	p.TOC1
+	{
+		font-size: 14px;
+	}
+
+	a.specialaaa
+	{
+		fonr: inherit;
+		font: inherit;
+		font-family: 'Bookman Old Style';
+		font-size: 14px;
 	}
 }
 
@@ -1239,5 +1252,10 @@ p.ppustekropki
 	line-he: inherit;
 	font-size: 14pt;
 	line-height: 22pt;
+}
+
+a.specialaaa
+{
+	
 }
 

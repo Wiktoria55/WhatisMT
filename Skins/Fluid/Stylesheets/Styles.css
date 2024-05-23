@@ -1075,7 +1075,7 @@ div.central-dropdown-content > a:hover
 
 .micro-content-proxy.faq
 {
-	
+	font-family: 'Bookman Old Style';
 }
 
 .micro-content-proxy.faq .micro-content-phrase span
@@ -1258,7 +1258,9 @@ div.central-dropdown-content > a:hover
 
 .micro-content-proxy.knowledge .proxy-title
 {
-	font-size: 1.5em;
+	color: #000000;
+	font-family: 'Bookshelf Symbol 7';
+	font-size: 14pt;
 	font-weight: bold;
 	padding-bottom: 10px;
 }
