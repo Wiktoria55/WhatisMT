@@ -504,9 +504,9 @@ MadCap|xref
 {
 	font-weight: bold;
 	text-decoration: underline;
-	mc-format: '{quote}{para}{quote} {pageref}';
 	color: #342d31;
 	font-size: 10px;
+	mc-format: '{quote}{para}{quote}';
 }
 
 /* Lists */

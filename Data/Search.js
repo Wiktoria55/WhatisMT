@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/9.11 Tutorial6.htm'],s:['+add','speech'],p:[['+add',17],['eusce',35],['or',10],['trojanskij',24]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/9.11 Tutorial6.htm'],s:['+add','speech'],p:[['+add',17],['evaluation',7],['orci',25],['tutorial',8]]});
