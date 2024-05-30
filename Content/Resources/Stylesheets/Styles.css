@@ -448,6 +448,8 @@ MadCap|breadcrumbsProxy
 a
 {
 	color: #076685;
+	font-size: 14pt;
+	font-family: 'Bookman Old Style';
 }
 
 a:link
@@ -507,6 +509,7 @@ MadCap|xref
 	color: #342d31;
 	mc-format: '{quote}{para}{quote}';
 	font-size: 14px;
+	font-family: 'Bookman Old Style';
 }
 
 /* Lists */
@@ -641,7 +644,11 @@ MadCap|xref.ListOfPageNumber
 
 MadCap|xref.IndexPageNumber
 {
-	font-size: 7pt;
+	font-size: 14pt;
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'Bookman Old Style';
+	text-decoration: underline;
 }
 
 MadCap|relationshipsHeading.reference
@@ -1274,6 +1281,16 @@ p.ppustekropki
 }
 
 a.specialaaa
+{
+	
+}
+
+ul.listtttttttttttttttt
+{
+	
+}
+
+ul.cbfdffdfgddfgdfgdfgdf
 {
 	
 }
