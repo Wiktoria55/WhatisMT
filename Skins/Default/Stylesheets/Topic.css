@@ -434,10 +434,10 @@ a.glossaryTerm
 {
 	text-decoration: underline;
 	color: #342d31;
-	font-size: 14px;
 	font-family: 'Bookman Old Style';
 	font-weight: normal;
 	font-style: normal;
+	font-size: 14pt;
 }
 
 div.MCBreadcrumbsBox_0
@@ -742,10 +742,10 @@ MadCap|xref.TOCPageNumber_0
 {
 	text-decoration: inherit;
 	color: inherit;
-	font-size: 14pt;
 	font-family: 'Bookman Old Style';
 	font-weight: inherit;
 	font-style: normal;
+	font-size: 14pt;
 }
 
 .MCWebHelpFramesetLink a

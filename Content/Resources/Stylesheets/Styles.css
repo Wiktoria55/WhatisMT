@@ -507,10 +507,10 @@ MadCap|xref
 	text-decoration: underline;
 	color: #342d31;
 	mc-format: '{quote}{para}{quote}';
-	font-size: 14px;
 	font-family: 'Bookman Old Style';
 	font-weight: normal;
 	font-style: normal;
+	font-size: 14pt;
 }
 
 /* Lists */
