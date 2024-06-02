@@ -432,11 +432,12 @@ a.glossaryTerm
 
 .xref
 {
-	font-weight: bold;
 	text-decoration: underline;
 	color: #342d31;
 	font-size: 14px;
 	font-family: 'Bookman Old Style';
+	font-weight: normal;
+	font-style: normal;
 }
 
 div.MCBreadcrumbsBox_0
@@ -739,11 +740,12 @@ td.mcReset
 
 MadCap|xref.TOCPageNumber_0
 {
-	font-weight: inherit;
 	text-decoration: inherit;
 	color: inherit;
 	font-size: 14pt;
 	font-family: 'Bookman Old Style';
+	font-weight: inherit;
+	font-style: normal;
 }
 
 .MCWebHelpFramesetLink a
